@@ -9,3 +9,5 @@
 # Question 5
 ![VS Code](vscode.png)
 
+Jorge Sanchez
+
