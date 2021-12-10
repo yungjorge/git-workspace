@@ -7,5 +7,5 @@
 ## Question 4
 ![Question4](question4.png)
 
-Jorge R Sanchez
+Jorge Sanchez
 12/9/2021
