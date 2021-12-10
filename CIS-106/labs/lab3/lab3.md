@@ -44,5 +44,5 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 
 ![File Size](filesize.png)
 
-Jorge Sanchez
+Jorge R. Sanchez
 
