@@ -9,5 +9,4 @@ Research, research, research. I plan on doing thorough research and lots of trou
 ## How do you think completing this project will help you in your career?
 I think completing this project will give me real world experience. This will make a great project for my resume.
 
-
 Jorge R.Sanchez
