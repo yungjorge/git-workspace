@@ -1,0 +1,4 @@
+    inet 127.0.0.1/8 scope host lo
+    inet 192.168.1.70/24 brd 192.168.1.255 scope global dynamic noprefixroute wlp3s0
+    inet6 ::1/128 scope host 
+    inet6 fe80::2e3e:f7b1:dc5c:24d3/64 scope link noprefixroute 
